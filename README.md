@@ -1,6 +1,7 @@
 ## About Me:
 -  I’m currently working on [Amazon Price Tracker](https://github.com/samleungskl/amazon-price-tracker-v2) 
--  I like automations, data and data visualization
+-  I like automations, data and data visualization!
+-  Automate every little part possible!
 -  You can see my projects on my [portfolio](https://samleung.netlify.app)
 -  Reach me on [LinkedIN](https://linkedin.com/in/samleungskl)
 -  Sometimes I write on [DevTo](https://dev.to/samleungskl)
